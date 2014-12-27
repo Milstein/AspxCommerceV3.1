@@ -1,0 +1,10 @@
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\SageFrame.BreadCrum.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\SageFrame.BreadCrum.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\SageFrame.BreadCrum.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\SageFrame.BreadCrum.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb

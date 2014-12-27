@@ -1,0 +1,10 @@
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\ServiceInvoker.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\ServiceInvoker.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\ServiceInvoker\obj\Debug\ServiceInvoker.csprojResolveAssemblyReference.cache
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\ServiceInvoker\obj\Debug\ServiceInvoker.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\ServiceInvoker\obj\Debug\ServiceInvoker.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\ServiceInvoker.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\ServiceInvoker.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\ServiceInvoker\obj\Debug\ServiceInvoker.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\ServiceInvoker\obj\Debug\ServiceInvoker.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\ServiceInvoker\obj\Debug\ServiceInvoker.pdb

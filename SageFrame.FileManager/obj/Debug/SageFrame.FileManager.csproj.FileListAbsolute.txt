@@ -1,0 +1,10 @@
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\SageFrame.FileManager.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\SageFrame.FileManager.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\SageFrame.FileManager.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\SageFrame.FileManager.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb

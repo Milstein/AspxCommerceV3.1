@@ -1,0 +1,10 @@
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\AspxCommerce.CompareItem.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\AspxCommerce.CompareItem.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\AspxCommerce.CompareItem.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\AspxCommerce.CompareItem.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.pdb

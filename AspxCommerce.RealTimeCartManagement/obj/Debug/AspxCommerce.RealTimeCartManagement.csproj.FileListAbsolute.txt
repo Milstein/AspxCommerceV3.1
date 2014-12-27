@@ -1,0 +1,13 @@
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartMgnt\obj\Debug\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartMgnt\obj\Debug\AspxCommerce.RearTimeCartMgnt.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartMgnt\obj\Debug\AspxCommerce.RearTimeCartMgnt.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\AspxCommerce.RearTimeCartMgnt.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\AspxCommerce.RearTimeCartMgnt.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\AspxCommerce.RearTimeCartMgnt.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\AspxCommerce.RearTimeCartMgnt.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.pdb

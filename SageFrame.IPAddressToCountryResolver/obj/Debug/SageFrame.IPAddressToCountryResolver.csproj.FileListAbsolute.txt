@@ -1,0 +1,8 @@
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.IPAddressToCountryResolver\bin\Debug\SageFrame.IPAddressToCountryResolver.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.IPAddressToCountryResolver\bin\Debug\SageFrame.IPAddressToCountryResolver.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.IPAddressToCountryResolver\bin\Debug\SageFrame.IPAddressToCountryResolver.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.IPAddressToCountryResolver\bin\Debug\SageFrame.IPAddressToCountryResolver.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb

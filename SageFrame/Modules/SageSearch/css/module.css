@@ -1,0 +1,11 @@
+.sfSearchwrapper ul li { list-style: none; float: left;}
+.sfSearchwrapper ul li:first-child { width:80%;}
+.sfSearchwrapper ul li:last-child { width:20%;}
+.sfSearchwrapper ul li .sfBtn { margin-left:-1px; padding:7px 12px;}
+.sfSearchwrapper ul li input[type="image"].sfBtn { padding: 8px 12px;}
+.sfSearchwrapper ul li a.sfBtn { border:none; background:none;}
+.sfSearchwrapper ul li span { display: none;}
+
+
+.sfSearchlist li a { font-weight: bold;}
+.sfSearchlist li { padding:20px; border-bottom: 1px solid rgba(0,0,0,0.15); list-style: none;}

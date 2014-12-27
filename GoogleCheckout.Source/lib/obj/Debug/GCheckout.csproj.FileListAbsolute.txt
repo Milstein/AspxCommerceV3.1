@@ -1,0 +1,20 @@
+C:\Users\Milson\Downloads\GoogleCheckout.Source\GoogleCheckout.Source\lib\bin\Debug\GCheckout.dll
+C:\Users\Milson\Downloads\GoogleCheckout.Source\GoogleCheckout.Source\lib\bin\Debug\GCheckout.pdb
+C:\Users\Milson\Downloads\GoogleCheckout.Source\GoogleCheckout.Source\lib\bin\Debug\GCheckout.xml
+C:\Users\Milson\Downloads\GoogleCheckout.Source\GoogleCheckout.Source\lib\obj\Debug\GCheckout.dll
+C:\Users\Milson\Downloads\GoogleCheckout.Source\GoogleCheckout.Source\lib\obj\Debug\GCheckout.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6_Source\SageFrame\bin\GCheckout.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6_Source\SageFrame\bin\GCheckout.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6_Source\SageFrame\bin\GCheckout.xml
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6_Source\GoogleCheckout.Source\lib\obj\Debug\GCheckout.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6_Source\GoogleCheckout.Source\lib\obj\Debug\GCheckout.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\GCheckout.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\GCheckout.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\GCheckout.xml
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\GoogleCheckout.Source\lib\obj\Debug\GCheckout.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\GoogleCheckout.Source\lib\obj\Debug\GCheckout.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\GCheckout.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\GCheckout.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame\bin\GCheckout.xml
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\GoogleCheckout.Source\lib\obj\Debug\GCheckout.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\GoogleCheckout.Source\lib\obj\Debug\GCheckout.pdb

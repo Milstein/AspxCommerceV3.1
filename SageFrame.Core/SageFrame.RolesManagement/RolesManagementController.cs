@@ -1,0 +1,87 @@
+﻿#region "Copyright"
+
+/*
+FOR FURTHER DETAILS ABOUT LICENSING, PLEASE VISIT "LICENSE.txt" INSIDE THE SAGEFRAME FOLDER
+*/
+
+#endregion
+
+#region "References"
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+#endregion
+
+
+namespace SageFrame.RolesManagement
+{
+    /// <summary>
+    /// Business logic for roles.
+    /// </summary>
+    public class RolesManagementController
+    {
+        /// <summary>
+        /// Returns roles details by role name.
+        /// </summary>
+        /// <param name="RoleName">Role name.</param>
+        /// <returns>Role details.</returns>
+        public RolesManagementInfo GetRoleIDByRoleName(string RoleName)
+        {
+            try
+            {
+                RolesManagementProvider objProvider = new RolesManagementProvider();
+                return objProvider.GetRoleIDByRoleName(RoleName);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
+        /// <summary>
+        /// Returns all the portal role list.
+        /// </summary>
+        /// <param name="PortalID">Portal ID.</param>
+        /// <param name="IsAll">set true if all the role is to be return.</param>
+        /// <param name="Username">User's name.</param>
+        /// <returns></returns>
+        public List<RolesManagementInfo> PortalRoleList(int PortalID, bool IsAll, string Username)
+        {
+            try
+            {
+                RolesManagementProvider objProvider = new RolesManagementProvider();
+                return objProvider.PortalRoleList(PortalID, IsAll, Username);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        
+        /// <summary>
+        /// Returns portal selected roles.
+        /// </summary>
+        /// <param name="PortalID">Portal ID.</param>
+        /// <param name="Username">User's name.</param>
+        /// <returns>List of roles details</returns>
+        public List<RolesManagementInfo> GetPortalRoleSelectedList(int PortalID, string Username)
+        {
+            try
+            {
+                RolesManagementProvider objProvider = new RolesManagementProvider();
+                return objProvider.GetPortalRoleSelectedList(PortalID,Username);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
+    }
+}

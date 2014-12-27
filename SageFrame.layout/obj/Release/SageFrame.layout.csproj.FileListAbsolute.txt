@@ -1,0 +1,45 @@
+D:\share\SageFrame2.5 Designer\SageFrame.layout\bin\Release\SageFrame.layout.dll
+D:\share\SageFrame2.5 Designer\SageFrame.layout\bin\Release\SageFrame.layout.pdb
+D:\share\SageFrame2.5 Designer\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
+D:\share\SageFrame2.5 Designer\SageFrame.layout\bin\Release\SageFrame.Common.dll
+D:\share\SageFrame2.5 Designer\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
+D:\share\SageFrame2.5 Designer\SageFrame.layout\bin\Release\SageFrame.Common.pdb
+D:\share\SageFrame2.5 Designer\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache
+D:\share\SageFrame2.5 Designer\SageFrame.layout\obj\Release\SageFrame.layout.dll
+D:\share\SageFrame2.5 Designer\SageFrame.layout\obj\Release\SageFrame.layout.pdb
+\\172.18.12.150\jivan\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.layout.dll
+\\172.18.12.150\jivan\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.layout.pdb
+\\172.18.12.150\jivan\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.Common.dll
+\\172.18.12.150\jivan\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
+\\172.18.12.150\jivan\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.Common.pdb
+\\172.18.12.150\jivan\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
+\\172.18.12.150\jivan\SageLite--Git\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache
+\\172.18.12.150\jivan\SageLite--Git\SageFrame.layout\obj\Release\SageFrame.layout.dll
+\\172.18.12.150\jivan\SageLite--Git\SageFrame.layout\obj\Release\SageFrame.layout.pdb
+E:\Development\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.layout.dll
+E:\Development\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.layout.pdb
+E:\Development\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.Common.dll
+E:\Development\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
+E:\Development\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.Common.pdb
+E:\Development\SageLite--Git\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
+E:\Development\SageLite--Git\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache
+E:\Development\SageLite--Git\SageFrame.layout\obj\Release\SageFrame.layout.dll
+E:\Development\SageLite--Git\SageFrame.layout\obj\Release\SageFrame.layout.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.layout.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.layout.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.Common.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.Common.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\obj\Release\SageFrame.layout.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\obj\Release\SageFrame.layout.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.layout.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.layout.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\obj\Release\SageFrame.layout.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\obj\Release\SageFrame.layout.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\!@My Jobs So far\!@latest\!@Websites Create\SageFrameV3.1_Source\SageFrame.Version\bin\Release\SageFrame.Version.dll
+E:\!@My Jobs So far\!@latest\!@Websites Create\SageFrameV3.1_Source\SageFrame.Version\bin\Release\SageFrame.Version.pdb
+E:\!@My Jobs So far\!@latest\!@Websites Create\SageFrameV3.1_Source\SageFrame.Version\obj\Release\SageFrame.Version.dll
+E:\!@My Jobs So far\!@latest\!@Websites Create\SageFrameV3.1_Source\SageFrame.Version\obj\Release\SageFrame.Version.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6_Source\SageFrame.Version\bin\Release\SageFrame.Version.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6_Source\SageFrame.Version\bin\Release\SageFrame.Version.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6_Source\SageFrame.Version\obj\Release\SageFrame.Version.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6_Source\SageFrame.Version\obj\Release\SageFrame.Version.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Version\bin\Release\SageFrame.Version.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Version\bin\Release\SageFrame.Version.pdb
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Version\obj\Release\SageFrame.Version.dll
+E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Version\obj\Release\SageFrame.Version.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Version\bin\Release\SageFrame.Version.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Version\bin\Release\SageFrame.Version.pdb
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Version\obj\Release\SageFrame.Version.dll
+D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Version\obj\Release\SageFrame.Version.pdb
