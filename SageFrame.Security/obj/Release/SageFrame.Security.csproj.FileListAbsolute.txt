@@ -12,3 +12,10 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Security\obj\Release\SageFrame.Security.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Security\obj\Release\SageFrame.Security.pdb
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Security\obj\Release\SageFrame.Security.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Security\bin\Release\SageFrame.Security.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Security\bin\Release\SageFrame.Security.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Security\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Security\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Security\obj\Release\SageFrame.Security.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Security\obj\Release\SageFrame.Security.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Security\obj\Release\SageFrame.Security.pdb

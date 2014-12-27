@@ -43,3 +43,12 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\obj\Release\SageFrame.layout.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\obj\Release\SageFrame.layout.pdb
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.layout.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.layout.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb

@@ -112,3 +112,41 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartManagement\obj\Release\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartManagement\obj\Release\AspxCommerce.RearTimeCartMgnt.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RealTimeCartManagement\obj\Release\AspxCommerce.RearTimeCartMgnt.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\AspxCommerce.RearTimeCartMgnt.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\AspxCommerce.RearTimeCartMgnt.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\AspxCommerce.AdminNotification.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\AspxCommerce.Core.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\Microsoft.AspNet.SignalR.Owin.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\Newtonsoft.Json.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Core.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\itextsharp.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.NewsLetter.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Security.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Pages.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\CurrencyConverter.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\DocumentFormat.OpenXml.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\AjaxControlToolkit.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Templating.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.CDN.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Scheduler.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\Ionic.Zip.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\Owin.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\AspxCommerce.AdminNotification.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\AspxCommerce.Core.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Core.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.NewsLetter.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Security.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Pages.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\CurrencyConverter.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Templating.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\bin\Release\SageFrame.Scheduler.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Release\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Release\AspxCommerce.RearTimeCartMgnt.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Release\AspxCommerce.RearTimeCartMgnt.pdb

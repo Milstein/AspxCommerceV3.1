@@ -12,3 +12,10 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Pages\obj\Release\SageFrame.Pages.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Pages\obj\Release\SageFrame.Pages.pdb
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Pages\obj\Release\SageFrame.Pages.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Pages\bin\Release\SageFrame.Pages.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Pages\bin\Release\SageFrame.Pages.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Pages\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Pages\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.pdb

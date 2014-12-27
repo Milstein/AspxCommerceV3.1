@@ -8,3 +8,9 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RewardPoints\obj\Release\AspxCommerce.RewardPoints.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RewardPoints\obj\Release\AspxCommerce.RewardPoints.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.RewardPoints\obj\Release\AspxCommerce.RewardPoints.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.RewardPoints.dll.config
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.RewardPoints.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.RewardPoints.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RewardPoints\obj\Release\AspxCommerce.RewardPoints.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RewardPoints\obj\Release\AspxCommerce.RewardPoints.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RewardPoints\obj\Release\AspxCommerce.RewardPoints.pdb

@@ -12,3 +12,10 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Scheduler\bin\Release\SageFrame.Scheduler.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Scheduler\bin\Release\SageFrame.Scheduler.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Scheduler\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Scheduler\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.pdb

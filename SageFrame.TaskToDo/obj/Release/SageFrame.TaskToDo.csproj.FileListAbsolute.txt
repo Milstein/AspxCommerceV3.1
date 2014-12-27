@@ -26,3 +26,10 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.TaskToDo.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.TaskToDo.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb

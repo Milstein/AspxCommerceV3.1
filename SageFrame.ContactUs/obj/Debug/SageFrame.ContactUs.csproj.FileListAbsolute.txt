@@ -8,3 +8,8 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.ContactUs\obj\Debug\SageFrame.ContactUs.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.ContactUs\obj\Debug\ContactUs.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.ContactUs\obj\Debug\ContactUs.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\ContactUs.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\ContactUs.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ContactUs\obj\Debug\SageFrame.ContactUs.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ContactUs\obj\Debug\ContactUs.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ContactUs\obj\Debug\ContactUs.pdb

@@ -8,3 +8,8 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ImageResizer.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ImageResizer.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.pdb

@@ -4,3 +4,5 @@ E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 E:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\GoogleCheckout.Source\lib\obj\Release\GCheckout.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\GoogleCheckout.Source\lib\bin\Release\GCheckout.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\GoogleCheckout.Source\lib\obj\Release\GCheckout.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\GoogleCheckout.Source\lib\bin\Release\GCheckout.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\GoogleCheckout.Source\lib\obj\Release\GCheckout.dll

@@ -12,3 +12,10 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.pdb
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ModuleManager\bin\Release\SageFrame.ModuleManager.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ModuleManager\bin\Release\SageFrame.ModuleManager.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ModuleManager\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ModuleManager\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.pdb

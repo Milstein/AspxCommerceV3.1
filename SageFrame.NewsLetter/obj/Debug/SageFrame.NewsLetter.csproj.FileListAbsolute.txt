@@ -8,3 +8,8 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.NewsLetter.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.NewsLetter.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.pdb

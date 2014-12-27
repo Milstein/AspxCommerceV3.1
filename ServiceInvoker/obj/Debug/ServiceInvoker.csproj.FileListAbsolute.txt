@@ -8,3 +8,8 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\ServiceInvoker\obj\Debug\ServiceInvoker.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\ServiceInvoker\obj\Debug\ServiceInvoker.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\ServiceInvoker\obj\Debug\ServiceInvoker.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\ServiceInvoker.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\ServiceInvoker.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.pdb

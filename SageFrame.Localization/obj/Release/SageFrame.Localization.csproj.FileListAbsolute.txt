@@ -50,3 +50,28 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Localization\obj\Release\SageFrame.Localization.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Localization\obj\Release\SageFrame.Localization.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Localization\obj\Release\SageFrame.Localization.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Localization.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Localization.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Core.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\AjaxControlToolkit.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Templating.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.CDN.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Scheduler.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Security.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Ionic.Zip.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Microsoft.AspNet.SignalR.Owin.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Owin.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Newtonsoft.Json.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Core.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Templating.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Scheduler.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Security.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.pdb

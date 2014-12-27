@@ -70,3 +70,39 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\AspxCommerce.BrandView.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\AspxCommerce.BrandView.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\AspxCommerce.Core.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Core.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\itextsharp.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.NewsLetter.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Security.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Pages.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\CurrencyConverter.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\DocumentFormat.OpenXml.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\AjaxControlToolkit.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Templating.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.CDN.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Scheduler.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\Ionic.Zip.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\Microsoft.AspNet.SignalR.Owin.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\Owin.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\Newtonsoft.Json.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\AspxCommerce.Core.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Core.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.NewsLetter.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Security.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Pages.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\CurrencyConverter.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Templating.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Scheduler.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.pdb

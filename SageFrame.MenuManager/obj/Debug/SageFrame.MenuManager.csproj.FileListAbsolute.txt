@@ -8,3 +8,8 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.MenuManager.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.MenuManager.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb

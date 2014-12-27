@@ -8,3 +8,8 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.Core\obj\Release\AspxCommerce.Core.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.Core\obj\Release\AspxCommerce.Core.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.Core\obj\Release\AspxCommerce.Core.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Core.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Core.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Core\obj\Release\AspxCommerce.Core.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Core\obj\Release\AspxCommerce.Core.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Core\obj\Release\AspxCommerce.Core.pdb

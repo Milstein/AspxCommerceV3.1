@@ -8,3 +8,8 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.CompareItem.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.CompareItem.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.pdb

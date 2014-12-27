@@ -20,3 +20,8 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.TaskToDo.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.TaskToDo.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.pdb
