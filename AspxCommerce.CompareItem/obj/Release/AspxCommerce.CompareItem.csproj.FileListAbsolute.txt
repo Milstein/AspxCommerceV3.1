@@ -103,6 +103,6 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\bin\Relea
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\bin\Release\SageFrame.Templating.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\bin\Release\SageFrame.CDN.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\bin\Release\SageFrame.Scheduler.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Release\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Release\AspxCommerce.CompareItem.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Release\AspxCommerce.CompareItem.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Release\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache

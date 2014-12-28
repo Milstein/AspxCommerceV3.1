@@ -74,6 +74,5 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ContactUs\bin\Release\Sa
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ContactUs\bin\Release\SageFrame.CDN.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ContactUs\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ContactUs\bin\Release\SageFrame.Security.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ContactUs\obj\Release\SageFrame.ContactUs.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ContactUs\obj\Release\ContactUs.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ContactUs\obj\Release\ContactUs.pdb

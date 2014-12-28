@@ -16,6 +16,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\bin\Debug\Sage
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\bin\Debug\SageFrame.Dashboard.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\bin\Debug\SageFrame.Common.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\bin\Debug\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.Dashboard.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.Dashboard.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb

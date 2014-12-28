@@ -10,6 +10,6 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\DashBoardControl.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\DashBoardControl.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.csprojResolveAssemblyReference.cache

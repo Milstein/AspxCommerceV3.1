@@ -10,6 +10,6 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.BreadCrum.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.BreadCrum.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.csprojResolveAssemblyReference.cache

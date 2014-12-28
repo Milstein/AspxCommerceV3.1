@@ -22,6 +22,5 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Pages.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Pages.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.pdb

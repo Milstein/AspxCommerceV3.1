@@ -66,19 +66,7 @@
             $(".sfLocalee").SystemLocalize();
         });
         //]]>
-    </script>
-	
-	<script type="text/javascript" src="js/jquery.snow.min.1.0.js"></script>
-	<script>
-		$(document).ready( function(){
-			 $.fn.snow({
-				  minSize: 10, //Tamaño mínimo del copo de nieve, 10 por defecto
-				  maxSize: 20, //Tamaño máximo del copo de nieve, 10 por defecto
-				  newOn: 300, //Frecuencia (en milisegundos) con la que aparecen los copos de nieve, 500 por defecto
-				  flakeColor: '#FFFFFF' //Color del copo de nieve, #FFFFFF por defecto
-			 });
-		}); 
-	</script>
-    </form>	
+    </script>    
+	</form>	
 </body>
 </html>

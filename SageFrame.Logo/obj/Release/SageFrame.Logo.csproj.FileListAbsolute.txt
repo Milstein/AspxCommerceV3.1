@@ -16,6 +16,5 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Logo\bin\Release\SageFra
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Logo\bin\Release\SageFrame.Logo.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Logo\bin\Release\SageFrame.Common.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Logo\bin\Release\SageFrame.Common.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Logo\obj\Release\SageFrame.Logo.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Logo\obj\Release\SageFrame.Logo.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Logo\obj\Release\SageFrame.Logo.pdb

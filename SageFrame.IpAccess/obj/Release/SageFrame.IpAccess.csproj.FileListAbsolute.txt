@@ -16,6 +16,5 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IpAccess\bin\Release\Sag
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IpAccess\bin\Release\SageFrame.IpAccess.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IpAccess\bin\Release\SageFrame.Common.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IpAccess\bin\Release\SageFrame.Common.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.pdb

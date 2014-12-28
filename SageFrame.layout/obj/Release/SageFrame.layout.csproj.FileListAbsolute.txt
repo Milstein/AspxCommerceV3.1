@@ -49,6 +49,5 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageF
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb

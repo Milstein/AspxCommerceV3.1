@@ -103,6 +103,6 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\bin\Release\Curr
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\bin\Release\SageFrame.Templating.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\bin\Release\SageFrame.CDN.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\bin\Release\SageFrame.Scheduler.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\obj\Release\AspxCommerce.USPS.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\obj\Release\AspxCommerce.USPS.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\obj\Release\AspxCommerce.USPS.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\obj\Release\AspxCommerce.USPS.csprojResolveAssemblyReference.cache
