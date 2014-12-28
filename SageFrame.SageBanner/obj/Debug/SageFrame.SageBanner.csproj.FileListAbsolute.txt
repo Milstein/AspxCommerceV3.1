@@ -12,4 +12,3 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.SageBanner
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.SageBanner.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.csprojResolveAssemblyReference.cache

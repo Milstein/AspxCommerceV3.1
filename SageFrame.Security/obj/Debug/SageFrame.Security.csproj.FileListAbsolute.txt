@@ -18,4 +18,3 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.Security.d
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.Security.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.csprojResolveAssemblyReference.cache

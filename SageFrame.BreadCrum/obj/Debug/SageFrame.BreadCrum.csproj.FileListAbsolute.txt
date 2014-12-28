@@ -12,4 +12,3 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.BreadCrum.
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.BreadCrum.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.csprojResolveAssemblyReference.cache

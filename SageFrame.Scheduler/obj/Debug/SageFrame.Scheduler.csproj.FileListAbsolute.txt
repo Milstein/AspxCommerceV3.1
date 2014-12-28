@@ -12,4 +12,3 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.Scheduler.
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.csprojResolveAssemblyReference.cache

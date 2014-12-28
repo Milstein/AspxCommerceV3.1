@@ -12,4 +12,3 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.IpAccess.d
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.IpAccess.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.csprojResolveAssemblyReference.cache

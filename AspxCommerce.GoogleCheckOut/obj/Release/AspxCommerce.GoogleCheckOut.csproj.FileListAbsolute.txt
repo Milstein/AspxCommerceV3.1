@@ -76,7 +76,6 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.GoogleCheckOut\obj\Release\AspxCommerce.GoogleCheckOut.pdb
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.GoogleCheckOut\bin\GCheckout.pdb
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.GoogleCheckOut\bin\GCheckout.xml
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\bin\AspxCommerce.GoogleCheckOut.dll.config
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\bin\AspxCommerce.GoogleCheckOut.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\bin\AspxCommerce.GoogleCheckOut.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\bin\AspxCommerce.Core.dll
@@ -114,3 +113,4 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\bin\Sa
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\obj\Release\AspxCommerce.GoogleCheckOut.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\obj\Release\AspxCommerce.GoogleCheckOut.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\obj\Release\AspxCommerce.GoogleCheckOut.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\bin\AspxCommerce.GoogleCheckOut.dll.config

@@ -12,4 +12,3 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.PortalMana
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.PortalManagement.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.csprojResolveAssemblyReference.cache

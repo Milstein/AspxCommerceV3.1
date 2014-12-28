@@ -70,7 +70,6 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.dll.config
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.Core.dll
@@ -107,3 +106,4 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Sch
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.dll.config

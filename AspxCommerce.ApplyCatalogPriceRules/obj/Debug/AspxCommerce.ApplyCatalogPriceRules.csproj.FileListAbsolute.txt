@@ -12,4 +12,3 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ApplyCa
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ApplyCatalogPriceRules.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Debug\AspxCommerce.ApplyCatalogPriceRules.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Debug\AspxCommerce.ApplyCatalogPriceRules.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Debug\AspxCommerce.ApplyCatalogPriceRules.csprojResolveAssemblyReference.cache

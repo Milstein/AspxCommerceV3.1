@@ -71,7 +71,6 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.Paypal\obj\Release\AspxCommerce.Paypal.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.Paypal\obj\Release\AspxCommerce.Paypal.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\bin\itextsharp.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\bin\AspxCommerce.Paypal.dll.config
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\bin\AspxCommerce.Paypal.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\bin\AspxCommerce.Paypal.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\bin\AspxCommerce.Core.dll
@@ -106,4 +105,4 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\bin\SageFrame.
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\bin\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Release\AspxCommerce.Paypal.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Release\AspxCommerce.Paypal.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Release\AspxCommerce.PayPal.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\bin\AspxCommerce.Paypal.dll.config

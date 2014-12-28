@@ -8,9 +8,9 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CashOnDelivery\obj\Debug\AspxCommerce.CashOnDelivery.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CashOnDelivery\obj\Debug\AspxCommerce.CashOnDelivery.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CashOnDelivery\obj\Debug\AspxCommerce.CashOnDelivery.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.CashOnDelivery.dll.config
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.CashOnDelivery.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.CashOnDelivery.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Debug\AspxCommerce.CashOnDelivery.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Debug\AspxCommerce.CashOnDelivery.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Debug\AspxCommerce.CashOnDelivery.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.CashOnDelivery.dll.config
