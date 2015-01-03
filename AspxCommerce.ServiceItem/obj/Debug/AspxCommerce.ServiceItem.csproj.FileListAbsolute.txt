@@ -10,6 +10,6 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ServiceItem.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ServiceItem.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.csprojResolveAssemblyReference.cache
