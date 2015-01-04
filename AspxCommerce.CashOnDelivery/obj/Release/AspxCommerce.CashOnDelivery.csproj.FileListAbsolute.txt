@@ -70,6 +70,7 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AspxCommerce.CashOnDelivery.dll.config
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AspxCommerce.CashOnDelivery.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AspxCommerce.CashOnDelivery.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AspxCommerce.Core.dll
@@ -77,17 +78,17 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Sa
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Core.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\itextsharp.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.NewsLetter.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Pages.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Security.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Pages.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\CurrencyConverter.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\DocumentFormat.OpenXml.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AjaxControlToolkit.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Templating.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\ICSharpCode.SharpZipLib.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Ionic.Zip.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.CDN.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Scheduler.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.CDN.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\ICSharpCode.SharpZipLib.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Ionic.Zip.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Microsoft.AspNet.SignalR.Core.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Microsoft.AspNet.SignalR.Owin.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Owin.dll
@@ -97,12 +98,11 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\As
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Core.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.NewsLetter.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Pages.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Security.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Pages.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\CurrencyConverter.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Templating.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AspxCommerce.CashOnDelivery.dll.config

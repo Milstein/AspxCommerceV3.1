@@ -58,11 +58,11 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFra
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\AjaxControlToolkit.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Common.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Templating.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\ICSharpCode.SharpZipLib.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\Ionic.Zip.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.CDN.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Scheduler.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.CDN.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\Ionic.Zip.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\Microsoft.AspNet.SignalR.Core.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\Microsoft.AspNet.SignalR.Owin.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\Owin.dll
@@ -72,8 +72,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFra
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Security.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Templating.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Release\ServiceInvoker.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Release\ServiceInvoker.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Release\ServiceInvoker.pdb

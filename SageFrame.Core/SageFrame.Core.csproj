@@ -56,7 +56,7 @@
     <Reference Include="Accessibility" />
     <Reference Include="AjaxControlToolkit, Version=3.0.30930.28736, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\AjaxControlToolkit.dll</HintPath>
+      <HintPath>..\SageFrame\bin\AjaxControlToolkit.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.1.271, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
       <HintPath>..\SageFrame\bin\ICSharpCode.SharpZipLib.dll</HintPath>
@@ -106,7 +106,9 @@
     <Reference Include="System.Web.Abstractions">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
-    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
     <Reference Include="System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Release\System.Web.Mvc.dll</HintPath>
@@ -302,20 +304,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\Debug\AjaxControlToolkit.dll" />
-    <Content Include="bin\Debug\ICSharpCode.SharpZipLib.dll" />
-    <Content Include="bin\Debug\Ionic.Zip.dll" />
-    <Content Include="bin\Debug\Microsoft.AspNet.SignalR.Core.dll" />
-    <Content Include="bin\Debug\Microsoft.AspNet.SignalR.Core.xml" />
-    <Content Include="bin\Debug\Microsoft.AspNet.SignalR.Owin.dll" />
-    <Content Include="bin\Debug\Microsoft.AspNet.SignalR.Owin.xml" />
-    <Content Include="bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll" />
-    <Content Include="bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml" />
-    <Content Include="bin\Debug\Microsoft.Owin.Host.SystemWeb.dll" />
-    <Content Include="bin\Debug\Microsoft.Owin.Host.SystemWeb.xml" />
-    <Content Include="bin\Debug\Newtonsoft.Json.dll" />
-    <Content Include="bin\Debug\Owin.dll" />
-    <Content Include="bin\Debug\SageFrame.layout.dll" />
+    <Folder Include="bin\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

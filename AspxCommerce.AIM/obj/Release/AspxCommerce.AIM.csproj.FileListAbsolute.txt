@@ -70,6 +70,7 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.dll
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.dll.config
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.Core.dll
@@ -77,17 +78,17 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Com
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Core.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\itextsharp.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.NewsLetter.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Pages.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Security.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Pages.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\CurrencyConverter.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\DocumentFormat.OpenXml.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AjaxControlToolkit.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Templating.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\ICSharpCode.SharpZipLib.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\Ionic.Zip.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.CDN.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Scheduler.dll
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.CDN.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\ICSharpCode.SharpZipLib.dll
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\Ionic.Zip.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\Microsoft.AspNet.SignalR.Core.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\Microsoft.AspNet.SignalR.Owin.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\Owin.dll
@@ -97,13 +98,12 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Core.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.NewsLetter.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Pages.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Security.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Pages.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\CurrencyConverter.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Templating.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.dll.config
