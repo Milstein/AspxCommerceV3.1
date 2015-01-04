@@ -40,6 +40,7 @@ D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCom
 D:\!@My Jobs So far\BrainDigit Job\AspxCommerce\!@Zips\!@AspxCommerce2.6\AspxCommerce2.6\SageFrame.Core\obj\Release\SageFrame.Core.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\bin\Release\SageFrame.Core.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\bin\Release\SageFrame.Core.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\bin\Release\AjaxControlToolkit.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\bin\Release\ICSharpCode.SharpZipLib.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\bin\Release\Ionic.Zip.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\bin\Release\Newtonsoft.Json.dll
@@ -58,4 +59,3 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\bin\Release\SageFra
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\obj\Release\SageFrame.Core.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\obj\Release\SageFrame.Core.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\obj\Release\SageFrame.Core.pdb
-D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Core\bin\Release\AjaxControlToolkit.dll
