@@ -10,3 +10,7 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\CurrencyConverter.dl
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\CurrencyConverter.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\CurrencyConvertor\obj\Debug\CurrencyConverter.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\CurrencyConvertor\obj\Debug\CurrencyConverter.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\CurrencyConverter.dll
+D:\AspxCommerceV3.1\SageFrame\bin\CurrencyConverter.pdb
+D:\AspxCommerceV3.1\CurrencyConvertor\obj\Debug\CurrencyConverter.dll
+D:\AspxCommerceV3.1\CurrencyConvertor\obj\Debug\CurrencyConverter.pdb

@@ -18,3 +18,9 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\Sage
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.pdb
+D:\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.OauthID.dll
+D:\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.OauthID.pdb
+D:\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.dll
+D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.pdb

@@ -18,3 +18,9 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SiteAnalytics\bin\Releas
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb
+D:\AspxCommerceV3.1\SageFrame.SiteAnalytics\bin\Release\DashBoardControl.dll
+D:\AspxCommerceV3.1\SageFrame.SiteAnalytics\bin\Release\DashBoardControl.pdb
+D:\AspxCommerceV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
+D:\AspxCommerceV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb

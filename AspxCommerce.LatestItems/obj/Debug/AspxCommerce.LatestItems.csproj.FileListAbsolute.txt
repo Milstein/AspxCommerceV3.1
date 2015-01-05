@@ -13,3 +13,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.LatestI
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.LatestItems.dll
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.LatestItems.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.pdb

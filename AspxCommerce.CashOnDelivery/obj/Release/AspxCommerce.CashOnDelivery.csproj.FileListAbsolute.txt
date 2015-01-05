@@ -107,3 +107,40 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Sa
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AspxCommerce.CashOnDelivery.dll.config
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AspxCommerce.CashOnDelivery.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AspxCommerce.CashOnDelivery.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AspxCommerce.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Common.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\itextsharp.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.NewsLetter.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Security.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Pages.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\CurrencyConverter.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\DocumentFormat.OpenXml.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AjaxControlToolkit.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Templating.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.CDN.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Scheduler.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\ICSharpCode.SharpZipLib.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Ionic.Zip.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Owin.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Newtonsoft.Json.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\AspxCommerce.Core.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Core.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.NewsLetter.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Security.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Pages.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\CurrencyConverter.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Templating.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.CDN.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Scheduler.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.dll
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.pdb

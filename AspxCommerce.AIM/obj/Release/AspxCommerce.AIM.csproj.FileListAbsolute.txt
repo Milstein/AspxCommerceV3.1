@@ -107,3 +107,40 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Sch
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.dll.config
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.AIM.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Common.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\itextsharp.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.NewsLetter.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Security.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Pages.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\CurrencyConverter.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\DocumentFormat.OpenXml.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\AjaxControlToolkit.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Templating.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.CDN.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Scheduler.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\ICSharpCode.SharpZipLib.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\Ionic.Zip.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\Owin.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\Newtonsoft.Json.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\AspxCommerce.Core.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Core.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.NewsLetter.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Security.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Pages.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\CurrencyConverter.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Templating.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.CDN.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\bin\SageFrame.Scheduler.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.dll
+D:\AspxCommerceV3.1\AspxCommerce.AIM\obj\Release\AspxCommerce.AIM.pdb

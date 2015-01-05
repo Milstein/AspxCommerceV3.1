@@ -19,3 +19,10 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\bin\Release\Sa
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.pdb
+D:\AspxCommerceV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Dashboard.dll
+D:\AspxCommerceV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Dashboard.pdb
+D:\AspxCommerceV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.dll
+D:\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.pdb

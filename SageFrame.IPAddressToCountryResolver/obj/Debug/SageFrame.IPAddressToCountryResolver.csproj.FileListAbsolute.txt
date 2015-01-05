@@ -12,3 +12,7 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.IPAddressT
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.IPAddressToCountryResolver.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.IPAddressToCountryResolver.dll
+D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.IPAddressToCountryResolver.pdb
+D:\AspxCommerceV3.1\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
+D:\AspxCommerceV3.1\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb

@@ -77,3 +77,28 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\Sage
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Upgrade.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Upgrade.pdb
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Core.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\AjaxControlToolkit.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Templating.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.CDN.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Scheduler.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Security.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\Ionic.Zip.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\Microsoft.AspNet.SignalR.Owin.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\Owin.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\Newtonsoft.Json.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Core.pdb
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Templating.pdb
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.CDN.pdb
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Scheduler.pdb
+D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Security.pdb
+D:\AspxCommerceV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.dll
+D:\AspxCommerceV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.pdb

@@ -75,3 +75,28 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\bin\Release
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.pdb
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Localization.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Localization.pdb
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Core.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\AjaxControlToolkit.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Templating.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.CDN.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Scheduler.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Security.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Ionic.Zip.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Microsoft.AspNet.SignalR.Owin.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Owin.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\Newtonsoft.Json.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Core.pdb
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Templating.pdb
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.CDN.pdb
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Scheduler.pdb
+D:\AspxCommerceV3.1\SageFrame.Localization\bin\Release\SageFrame.Security.pdb
+D:\AspxCommerceV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.dll
+D:\AspxCommerceV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.pdb

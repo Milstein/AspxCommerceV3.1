@@ -13,3 +13,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AdminNo
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AdminNotification.dll
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AdminNotification.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.dll
+D:\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.pdb

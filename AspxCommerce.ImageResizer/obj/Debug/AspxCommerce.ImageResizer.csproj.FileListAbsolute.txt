@@ -13,3 +13,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ImageRe
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ImageResizer.dll
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ImageResizer.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Debug\AspxCommerce.ImageResizer.pdb

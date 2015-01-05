@@ -77,3 +77,29 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFra
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Release\ServiceInvoker.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Release\ServiceInvoker.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Release\ServiceInvoker.pdb
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\ServiceInvoker.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\ServiceInvoker.pdb
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Core.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Security.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\AjaxControlToolkit.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Templating.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.CDN.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Scheduler.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\Ionic.Zip.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\Microsoft.AspNet.SignalR.Owin.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\Owin.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\Newtonsoft.Json.dll
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Core.pdb
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Security.pdb
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Templating.pdb
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.CDN.pdb
+D:\AspxCommerceV3.1\ServiceInvoker\bin\Release\SageFrame.Scheduler.pdb
+D:\AspxCommerceV3.1\ServiceInvoker\obj\Release\ServiceInvoker.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\ServiceInvoker\obj\Release\ServiceInvoker.dll
+D:\AspxCommerceV3.1\ServiceInvoker\obj\Release\ServiceInvoker.pdb

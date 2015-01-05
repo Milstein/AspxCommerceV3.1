@@ -32,3 +32,9 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\bin\Release\Sag
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb
+D:\AspxCommerceV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.TaskToDo.dll
+D:\AspxCommerceV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.TaskToDo.pdb
+D:\AspxCommerceV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
+D:\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb

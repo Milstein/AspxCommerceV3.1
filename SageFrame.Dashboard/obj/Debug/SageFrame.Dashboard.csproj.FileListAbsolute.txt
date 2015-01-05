@@ -21,3 +21,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.Dashboard.
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.Dashboard.dll
+D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.Dashboard.pdb
+D:\AspxCommerceV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
+D:\AspxCommerceV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb

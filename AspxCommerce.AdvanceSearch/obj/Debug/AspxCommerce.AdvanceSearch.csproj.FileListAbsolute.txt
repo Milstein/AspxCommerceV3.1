@@ -13,3 +13,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Advance
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\obj\Debug\AspxCommerce.AdvanceSearch.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\obj\Debug\AspxCommerce.AdvanceSearch.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\obj\Debug\AspxCommerce.AdvanceSearch.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AdvanceSearch.dll
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AdvanceSearch.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\obj\Debug\AspxCommerce.AdvanceSearch.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\obj\Debug\AspxCommerce.AdvanceSearch.dll
+D:\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\obj\Debug\AspxCommerce.AdvanceSearch.pdb

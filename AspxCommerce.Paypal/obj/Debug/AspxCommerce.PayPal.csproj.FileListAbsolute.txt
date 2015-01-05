@@ -14,3 +14,9 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Paypal.
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.PayPal.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.Paypal.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.Paypal.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Paypal.dll.config
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Paypal.dll
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Paypal.pdb
+D:\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.PayPal.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.Paypal.dll
+D:\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.Paypal.pdb

@@ -106,3 +106,39 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Re
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Release\AspxCommerce.YouMayAlsoLike.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Release\AspxCommerce.YouMayAlsoLike.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Release\AspxCommerce.YouMayAlsoLike.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\AspxCommerce.YouMayAlsoLike.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\AspxCommerce.YouMayAlsoLike.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\AspxCommerce.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\itextsharp.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.NewsLetter.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Security.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Pages.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\CurrencyConverter.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\DocumentFormat.OpenXml.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\AjaxControlToolkit.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Templating.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.CDN.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Scheduler.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\Ionic.Zip.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\Microsoft.AspNet.SignalR.Owin.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\Owin.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\Newtonsoft.Json.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\AspxCommerce.Core.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Core.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.NewsLetter.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Security.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Pages.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\CurrencyConverter.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Templating.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.CDN.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\bin\Release\SageFrame.Scheduler.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Release\AspxCommerce.YouMayAlsoLike.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Release\AspxCommerce.YouMayAlsoLike.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Release\AspxCommerce.YouMayAlsoLike.pdb

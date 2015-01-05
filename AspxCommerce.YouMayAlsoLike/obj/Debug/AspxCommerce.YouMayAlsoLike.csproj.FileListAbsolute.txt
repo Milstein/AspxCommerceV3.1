@@ -13,3 +13,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.YouMayA
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Debug\AspxCommerce.YouMayAlsoLike.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Debug\AspxCommerce.YouMayAlsoLike.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Debug\AspxCommerce.YouMayAlsoLike.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.YouMayAlsoLike.dll
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.YouMayAlsoLike.pdb
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Debug\AspxCommerce.YouMayAlsoLike.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Debug\AspxCommerce.YouMayAlsoLike.dll
+D:\AspxCommerceV3.1\AspxCommerce.YouMayAlsoLike\obj\Debug\AspxCommerce.YouMayAlsoLike.pdb

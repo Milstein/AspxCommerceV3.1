@@ -124,3 +124,45 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Rele
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Release\AspxCommerce.ImageResizer.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Release\AspxCommerce.ImageResizer.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Release\AspxCommerce.ImageResizer.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\AspxCommerce.ImageResizer.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\AspxCommerce.ImageResizer.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\AspxCommerce.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\ImageResizer.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\ImageResizer.Mvc.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\ImageResizer.Plugins.Watermark.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\itextsharp.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.NewsLetter.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Security.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Pages.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\CurrencyConverter.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\DocumentFormat.OpenXml.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\AjaxControlToolkit.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Templating.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.CDN.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Scheduler.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\Ionic.Zip.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\Microsoft.AspNet.SignalR.Owin.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\Owin.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\Newtonsoft.Json.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\AspxCommerce.Core.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\ImageResizer.xml
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\ImageResizer.Mvc.xml
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\ImageResizer.Plugins.Watermark.xml
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Core.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.NewsLetter.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Security.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Pages.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\CurrencyConverter.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Templating.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.CDN.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\bin\Release\SageFrame.Scheduler.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Release\AspxCommerce.ImageResizer.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Release\AspxCommerce.ImageResizer.dll
+D:\AspxCommerceV3.1\AspxCommerce.ImageResizer\obj\Release\AspxCommerce.ImageResizer.pdb

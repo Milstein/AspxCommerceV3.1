@@ -23,3 +23,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\GCheckout.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\GCheckout.xml
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\GoogleCheckout.Source\lib\obj\Debug\GCheckout.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\GoogleCheckout.Source\lib\obj\Debug\GCheckout.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\GCheckout.dll
+D:\AspxCommerceV3.1\SageFrame\bin\GCheckout.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\GCheckout.xml
+D:\AspxCommerceV3.1\GoogleCheckout.Source\lib\obj\Debug\GCheckout.dll
+D:\AspxCommerceV3.1\GoogleCheckout.Source\lib\obj\Debug\GCheckout.pdb

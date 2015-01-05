@@ -18,3 +18,9 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\bin\Release\Sa
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Release\SageFrame.BreadCrum.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Release\SageFrame.BreadCrum.pdb
+D:\AspxCommerceV3.1\SageFrame.BreadCrum\bin\Release\SageFrame.BreadCrum.dll
+D:\AspxCommerceV3.1\SageFrame.BreadCrum\bin\Release\SageFrame.BreadCrum.pdb
+D:\AspxCommerceV3.1\SageFrame.BreadCrum\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\SageFrame.BreadCrum\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Release\SageFrame.BreadCrum.dll
+D:\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Release\SageFrame.BreadCrum.pdb

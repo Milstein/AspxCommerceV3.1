@@ -106,3 +106,39 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Relea
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Release\AspxCommerce.LatestItems.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Release\AspxCommerce.LatestItems.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Release\AspxCommerce.LatestItems.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\AspxCommerce.LatestItems.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\AspxCommerce.LatestItems.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\AspxCommerce.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\itextsharp.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.NewsLetter.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Security.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Pages.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\CurrencyConverter.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\DocumentFormat.OpenXml.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\AjaxControlToolkit.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Templating.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.CDN.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Scheduler.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\Ionic.Zip.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\Microsoft.AspNet.SignalR.Owin.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\Owin.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\Newtonsoft.Json.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\AspxCommerce.Core.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Core.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.NewsLetter.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Security.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Pages.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\CurrencyConverter.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Templating.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.CDN.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Scheduler.pdb
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Release\AspxCommerce.LatestItems.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Release\AspxCommerce.LatestItems.dll
+D:\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Release\AspxCommerce.LatestItems.pdb

@@ -16,3 +16,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.RearTim
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.RearTimeCartMgnt.dll
+D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.RearTimeCartMgnt.pdb
+D:\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.dll
+D:\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.pdb

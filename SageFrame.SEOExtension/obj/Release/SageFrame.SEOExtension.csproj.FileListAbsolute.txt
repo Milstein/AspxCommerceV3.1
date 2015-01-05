@@ -18,3 +18,9 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.pdb
+D:\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.SEOExtension.dll
+D:\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.SEOExtension.pdb
+D:\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.dll
+D:\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.pdb

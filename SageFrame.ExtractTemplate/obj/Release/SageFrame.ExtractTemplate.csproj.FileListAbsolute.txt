@@ -18,3 +18,9 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ExtractTemplate\bin\Rele
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ExtractTemplate\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.pdb
+D:\AspxCommerceV3.1\SageFrame.ExtractTemplate\bin\Release\SageFrame.ExtractTemplate.dll
+D:\AspxCommerceV3.1\SageFrame.ExtractTemplate\bin\Release\SageFrame.ExtractTemplate.pdb
+D:\AspxCommerceV3.1\SageFrame.ExtractTemplate\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\SageFrame.ExtractTemplate\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.dll
+D:\AspxCommerceV3.1\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.pdb

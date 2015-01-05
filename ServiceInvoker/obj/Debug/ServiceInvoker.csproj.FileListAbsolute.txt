@@ -13,3 +13,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\ServiceInvoker.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\ServiceInvoker.dll
+D:\AspxCommerceV3.1\SageFrame\bin\ServiceInvoker.pdb
+D:\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.dll
+D:\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.pdb

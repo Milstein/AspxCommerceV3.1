@@ -10,3 +10,7 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\GoogleAdUnit\bin\Release\SFE.Googl
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.pdb
+D:\AspxCommerceV3.1\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.dll
+D:\AspxCommerceV3.1\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.pdb
+D:\AspxCommerceV3.1\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.dll
+D:\AspxCommerceV3.1\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.pdb

@@ -24,3 +24,11 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRule
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Release\AspxCommerce.ApplyCatalogPriceRules.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Release\AspxCommerce.ApplyCatalogPriceRules.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\bin\Release\AspxCommerce.ApplyCatalogPriceRules.dll
+D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\bin\Release\AspxCommerce.ApplyCatalogPriceRules.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\bin\Release\SageFrame.Common.dll
+D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\bin\Release\SageFrame.Scheduler.dll
+D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\bin\Release\SageFrame.Common.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\bin\Release\SageFrame.Scheduler.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Release\AspxCommerce.ApplyCatalogPriceRules.dll
+D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Release\AspxCommerce.ApplyCatalogPriceRules.pdb

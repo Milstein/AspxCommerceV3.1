@@ -13,3 +13,8 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.NewsLetter
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.pdb
+D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.NewsLetter.dll
+D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.NewsLetter.pdb
+D:\AspxCommerceV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.dll
+D:\AspxCommerceV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.pdb

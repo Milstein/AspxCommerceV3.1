@@ -17,3 +17,7 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.OauthID.pd
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.csprojResolveAssemblyReference.cache
+D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.OauthID.dll
+D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.OauthID.pdb
+D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.dll
+D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.pdb
