@@ -106,3 +106,4 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\bin\SageFrame.
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\bin\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Release\AspxCommerce.Paypal.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Release\AspxCommerce.Paypal.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Release\AspxCommerce.PayPal.csprojResolveAssemblyReference.cache

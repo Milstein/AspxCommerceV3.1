@@ -106,3 +106,4 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\Sa
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.csprojResolveAssemblyReference.cache

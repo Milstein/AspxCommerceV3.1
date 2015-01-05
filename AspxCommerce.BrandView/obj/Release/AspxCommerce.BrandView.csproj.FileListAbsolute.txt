@@ -105,3 +105,4 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.csprojResolveAssemblyReference.cache

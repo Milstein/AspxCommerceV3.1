@@ -105,3 +105,4 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\bin\Release\Sage
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\obj\Release\AspxCommerce.USPS.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\obj\Release\AspxCommerce.USPS.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\obj\Release\AspxCommerce.USPS.csprojResolveAssemblyReference.cache

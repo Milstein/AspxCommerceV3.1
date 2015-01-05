@@ -12,3 +12,4 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.Logo.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\SageFrame.Logo.pdb
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Logo\obj\Debug\SageFrame.Logo.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Logo\obj\Debug\SageFrame.Logo.pdb
+D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.Logo\obj\Debug\SageFrame.Logo.csprojResolveAssemblyReference.cache
