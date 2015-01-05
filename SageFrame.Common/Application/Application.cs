@@ -134,7 +134,7 @@ namespace SageFrame.Application
         {
             get
             {
-                return ("SageFrame� is copyright 2010-"
+                return ("SageFrame® is copyright 2010 -"
                             + (DateTime.Today.ToString("yyyy") + " by SageFrame Corporation"));
             }
         }
