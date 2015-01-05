@@ -141,6 +141,5 @@ D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\bin\CurrencyConverter.pdb
 D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\bin\SageFrame.Templating.pdb
 D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\bin\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\bin\SageFrame.Scheduler.pdb
-D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Release\AspxCommerce.Moneybookers.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Release\AspxCommerce.Moneybookers.dll
 D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Release\AspxCommerce.Moneybookers.pdb

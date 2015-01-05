@@ -139,6 +139,5 @@ D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\CurrencyConverter.pdb
 D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Templating.pdb
 D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\AspxCommerce.LatestItems\bin\Release\SageFrame.Scheduler.pdb
-D:\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Release\AspxCommerce.LatestItems.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Release\AspxCommerce.LatestItems.dll
 D:\AspxCommerceV3.1\AspxCommerce.LatestItems\obj\Release\AspxCommerce.LatestItems.pdb

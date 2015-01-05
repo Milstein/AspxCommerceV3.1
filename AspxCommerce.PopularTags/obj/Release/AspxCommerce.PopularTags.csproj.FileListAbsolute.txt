@@ -176,6 +176,5 @@ D:\AspxCommerceV3.1\AspxCommerce.PopularTags\bin\Release\CurrencyConverter.pdb
 D:\AspxCommerceV3.1\AspxCommerce.PopularTags\bin\Release\SageFrame.Templating.pdb
 D:\AspxCommerceV3.1\AspxCommerce.PopularTags\bin\Release\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\AspxCommerce.PopularTags\bin\Release\SageFrame.Scheduler.pdb
-D:\AspxCommerceV3.1\AspxCommerce.PopularTags\obj\Release\AspxCommerce.PopularTags.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.PopularTags\obj\Release\AspxCommerce.PopularTags.dll
 D:\AspxCommerceV3.1\AspxCommerce.PopularTags\obj\Release\AspxCommerce.PopularTags.pdb
