@@ -24,3 +24,4 @@ D:\AspxCommerceV3.1\SageFrame.Security\bin\Release\SageFrame.Common.dll
 D:\AspxCommerceV3.1\SageFrame.Security\bin\Release\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.Security\obj\Release\SageFrame.Security.dll
 D:\AspxCommerceV3.1\SageFrame.Security\obj\Release\SageFrame.Security.pdb
+D:\AspxCommerceV3.1\SageFrame.Security\obj\Release\SageFrame.Security.csprojResolveAssemblyReference.cache

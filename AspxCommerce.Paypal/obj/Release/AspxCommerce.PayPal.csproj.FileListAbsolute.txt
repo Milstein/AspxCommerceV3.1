@@ -143,3 +143,4 @@ D:\AspxCommerceV3.1\AspxCommerce.Paypal\bin\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\AspxCommerce.Paypal\bin\SageFrame.Scheduler.pdb
 D:\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Release\AspxCommerce.Paypal.dll
 D:\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Release\AspxCommerce.Paypal.pdb
+D:\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Release\AspxCommerce.PayPal.csprojResolveAssemblyReference.cache

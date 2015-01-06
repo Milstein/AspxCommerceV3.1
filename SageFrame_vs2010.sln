@@ -9,7 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{B086D515-2
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SageFrame", "SageFrame\", "{2884600D-1AC6-4A43-BEE7-9B5D43608CB4}"
 	ProjectSection(WebsiteProperties) = preProject
-		Frontpage = "false"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		ProjectReferences = "{6AF77849-4E47-4E74-8944-4BDAD509C0A3}|SageFrame.Common.dll;{6FEFEC25-44C0-499F-AC69-CA530BD34A15}|SFE.GoogleAdUnit.dll;{112F669E-84E6-4124-961B-7EFE7C89852B}|SageFrame.IPAddressToCountryResolver.dll;{E01DB85D-70F0-4A32-AD9D-9D5CA1771D85}|SageFrame.Core.dll;{8773EC29-792D-4EB1-BAB3-5137E34DF82C}|SageFrame.Security.dll;{4F0D17C3-EDF5-4E55-9704-03B5CC2E1265}|SageFrame.BreadCrum.dll;{0548FFEE-28AF-4A67-A41E-4783A38E952C}|SageFrame.Templating.dll;{19EA37AD-EAE6-40E7-8440-F455F65D1BD5}|SageFrame.ModuleManager.dll;{C714C93B-B55D-4842-9D7F-98C7A2272FA4}|SageFrame.Pages.dll;{B9C7C3B9-D1B7-4A2A-9D9A-2B855FCF927E}|SageFrame.MenuManager.dll;{1D3E59E6-F1A1-4244-9D95-20ADBBCD1DF0}|SageFrame.PortalManagement.dll;{FCECD2E4-4446-4734-8791-BE40A5E16198}|SageFrame.Scheduler.dll;{F6873FB1-9171-4747-B1B4-77431B892E16}|DashBoardControl.dll;{CFB32E58-8BE4-4B85-9DC6-77DAB8D3825D}|SageFrame.Dashboard.dll;{5FB3E456-D1CB-4E2A-819C-7DD6C8D917A4}|SageFrame.CDN.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/SageFrame"
@@ -27,6 +26,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SageFrame", "SageFrame\", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "4217"
+		SlnRelativePath = "SageFrame\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject

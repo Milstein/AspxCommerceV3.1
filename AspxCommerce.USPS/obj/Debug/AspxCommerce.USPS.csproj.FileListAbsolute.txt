@@ -15,6 +15,6 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCo
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.USPS.dll
 D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.USPS.pdb
-D:\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.dll
 D:\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.pdb
+D:\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.csprojResolveAssemblyReference.cache

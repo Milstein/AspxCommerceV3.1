@@ -24,3 +24,4 @@ D:\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.dll
 D:\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.dll
 D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.pdb
+D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.csprojResolveAssemblyReference.cache

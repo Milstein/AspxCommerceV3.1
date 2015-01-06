@@ -13,6 +13,5 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\CurrencyConvertor\obj\Release\Curr
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\CurrencyConvertor\obj\Release\CurrencyConverter.pdb
 D:\AspxCommerceV3.1\CurrencyConvertor\bin\Release\CurrencyConverter.dll
 D:\AspxCommerceV3.1\CurrencyConvertor\bin\Release\CurrencyConverter.pdb
-D:\AspxCommerceV3.1\CurrencyConvertor\obj\Release\CurrencyConverter.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\CurrencyConvertor\obj\Release\CurrencyConverter.dll
 D:\AspxCommerceV3.1\CurrencyConvertor\obj\Release\CurrencyConverter.pdb

@@ -17,6 +17,6 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debu
 D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Moneybookers.dll.config
 D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Moneybookers.dll
 D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Moneybookers.pdb
-D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debug\AspxCommerce.Moneybookers.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debug\AspxCommerce.Moneybookers.dll
 D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debug\AspxCommerce.Moneybookers.pdb
+D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debug\AspxCommerce.Moneybookers.csprojResolveAssemblyReference.cache

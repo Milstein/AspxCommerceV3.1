@@ -59,3 +59,4 @@ D:\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
 D:\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
 D:\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb
+D:\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache
