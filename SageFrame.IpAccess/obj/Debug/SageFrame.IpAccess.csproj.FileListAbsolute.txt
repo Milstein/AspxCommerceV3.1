@@ -17,4 +17,3 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.IpAccess.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.IpAccess.pdb
 D:\AspxCommerceV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
 D:\AspxCommerceV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb
-D:\AspxCommerceV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.csprojResolveAssemblyReference.cache

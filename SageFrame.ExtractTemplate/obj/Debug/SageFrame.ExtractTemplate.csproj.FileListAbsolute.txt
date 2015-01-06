@@ -21,4 +21,3 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.ExtractTemplate.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.ExtractTemplate.pdb
 D:\AspxCommerceV3.1\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.dll
 D:\AspxCommerceV3.1\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb
-D:\AspxCommerceV3.1\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.csprojResolveAssemblyReference.cache

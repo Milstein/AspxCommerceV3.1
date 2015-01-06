@@ -24,4 +24,3 @@ D:\AspxCommerceV3.1\SageFrame.Pages\bin\Release\SageFrame.Common.dll
 D:\AspxCommerceV3.1\SageFrame.Pages\bin\Release\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.dll
 D:\AspxCommerceV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.pdb
-D:\AspxCommerceV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.csprojResolveAssemblyReference.cache

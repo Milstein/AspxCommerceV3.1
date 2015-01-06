@@ -32,4 +32,3 @@ D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\bin\Release\SageFrame.Co
 D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\bin\Release\SageFrame.Scheduler.pdb
 D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Release\AspxCommerce.ApplyCatalogPriceRules.dll
 D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Release\AspxCommerce.ApplyCatalogPriceRules.pdb
-D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Release\AspxCommerce.ApplyCatalogPriceRules.csprojResolveAssemblyReference.cache

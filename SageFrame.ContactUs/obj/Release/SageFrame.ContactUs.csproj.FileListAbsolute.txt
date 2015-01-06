@@ -101,4 +101,3 @@ D:\AspxCommerceV3.1\SageFrame.ContactUs\bin\Release\SageFrame.Scheduler.pdb
 D:\AspxCommerceV3.1\SageFrame.ContactUs\bin\Release\SageFrame.Security.pdb
 D:\AspxCommerceV3.1\SageFrame.ContactUs\obj\Release\ContactUs.dll
 D:\AspxCommerceV3.1\SageFrame.ContactUs\obj\Release\ContactUs.pdb
-D:\AspxCommerceV3.1\SageFrame.ContactUs\obj\Release\SageFrame.ContactUs.csprojResolveAssemblyReference.cache

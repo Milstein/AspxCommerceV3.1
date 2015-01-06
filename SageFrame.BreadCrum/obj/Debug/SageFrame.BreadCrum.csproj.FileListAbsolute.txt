@@ -17,4 +17,3 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.BreadCrum.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.BreadCrum.pdb
 D:\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
 D:\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb
-D:\AspxCommerceV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.csprojResolveAssemblyReference.cache

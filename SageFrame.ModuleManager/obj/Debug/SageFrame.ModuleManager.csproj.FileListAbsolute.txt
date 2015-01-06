@@ -25,4 +25,3 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.ModuleManager.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.ModuleManager.pdb
 D:\AspxCommerceV3.1\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.dll
 D:\AspxCommerceV3.1\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.pdb
-D:\AspxCommerceV3.1\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.csprojResolveAssemblyReference.cache

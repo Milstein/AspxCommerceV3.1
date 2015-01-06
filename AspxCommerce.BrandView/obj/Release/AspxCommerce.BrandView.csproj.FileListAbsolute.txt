@@ -141,4 +141,3 @@ D:\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\AspxCommerce.BrandView\bin\Release\SageFrame.Scheduler.pdb
 D:\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.dll
 D:\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.pdb
-D:\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.csprojResolveAssemblyReference.cache

@@ -141,4 +141,3 @@ D:\AspxCommerceV3.1\AspxCommerce.WishItem\bin\Release\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\AspxCommerce.WishItem\bin\Release\SageFrame.Scheduler.pdb
 D:\AspxCommerceV3.1\AspxCommerce.WishItem\obj\Release\AspxCommerce.WishItem.dll
 D:\AspxCommerceV3.1\AspxCommerce.WishItem\obj\Release\AspxCommerce.WishItem.pdb
-D:\AspxCommerceV3.1\AspxCommerce.WishItem\obj\Release\AspxCommerce.WishItem.csprojResolveAssemblyReference.cache
