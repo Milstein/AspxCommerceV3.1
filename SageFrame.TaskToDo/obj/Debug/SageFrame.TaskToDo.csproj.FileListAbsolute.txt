@@ -29,3 +29,4 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.TaskToDo.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.TaskToDo.pdb
 D:\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.dll
 D:\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.pdb
+D:\AspxCommerceV3.1\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.csprojResolveAssemblyReference.cache

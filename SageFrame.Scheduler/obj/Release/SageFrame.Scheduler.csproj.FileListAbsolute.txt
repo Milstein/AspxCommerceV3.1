@@ -24,4 +24,3 @@ D:\AspxCommerceV3.1\SageFrame.Scheduler\bin\Release\SageFrame.Common.dll
 D:\AspxCommerceV3.1\SageFrame.Scheduler\bin\Release\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.dll
 D:\AspxCommerceV3.1\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.pdb
-D:\AspxCommerceV3.1\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.csprojResolveAssemblyReference.cache

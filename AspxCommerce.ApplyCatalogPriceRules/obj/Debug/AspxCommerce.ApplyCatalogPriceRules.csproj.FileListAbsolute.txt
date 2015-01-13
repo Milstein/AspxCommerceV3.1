@@ -17,3 +17,4 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ApplyCatalogPriceRules.dll
 D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.ApplyCatalogPriceRules.pdb
 D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Debug\AspxCommerce.ApplyCatalogPriceRules.dll
 D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Debug\AspxCommerce.ApplyCatalogPriceRules.pdb
+D:\AspxCommerceV3.1\AspxCommerce.ApplyCatalogPriceRules\obj\Debug\AspxCommerce.ApplyCatalogPriceRules.csprojResolveAssemblyReference.cache

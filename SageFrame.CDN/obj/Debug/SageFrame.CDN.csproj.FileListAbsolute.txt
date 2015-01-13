@@ -21,3 +21,4 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.CDN.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
 D:\AspxCommerceV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb
+D:\AspxCommerceV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.csprojResolveAssemblyReference.cache

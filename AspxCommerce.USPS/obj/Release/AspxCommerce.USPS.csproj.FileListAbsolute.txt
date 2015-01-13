@@ -141,3 +141,4 @@ D:\AspxCommerceV3.1\AspxCommerce.USPS\bin\Release\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\AspxCommerce.USPS\bin\Release\SageFrame.Scheduler.pdb
 D:\AspxCommerceV3.1\AspxCommerce.USPS\obj\Release\AspxCommerce.USPS.dll
 D:\AspxCommerceV3.1\AspxCommerce.USPS\obj\Release\AspxCommerce.USPS.pdb
+D:\AspxCommerceV3.1\AspxCommerce.USPS\obj\Release\AspxCommerce.USPS.csprojResolveAssemblyReference.cache

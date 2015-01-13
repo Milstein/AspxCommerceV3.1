@@ -141,3 +141,4 @@ D:\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\bin\Release\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\bin\Release\SageFrame.Scheduler.pdb
 D:\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\obj\Release\AspxCommerce.AdvanceSearch.dll
 D:\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\obj\Release\AspxCommerce.AdvanceSearch.pdb
+D:\AspxCommerceV3.1\AspxCommerce.AdvanceSearch\obj\Release\AspxCommerce.AdvanceSearch.csprojResolveAssemblyReference.cache

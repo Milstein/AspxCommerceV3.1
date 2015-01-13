@@ -17,3 +17,4 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.Templating.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.Templating.pdb
 D:\AspxCommerceV3.1\SageFrame.Templating\obj\Debug\SageFrame.Templating.dll
 D:\AspxCommerceV3.1\SageFrame.Templating\obj\Debug\SageFrame.Templating.pdb
+D:\AspxCommerceV3.1\SageFrame.Templating\obj\Debug\SageFrame.Templating.csprojResolveAssemblyReference.cache

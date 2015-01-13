@@ -143,3 +143,4 @@ D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\bin\SageFrame.Scheduler.pdb
 D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.dll
 D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.pdb
+D:\AspxCommerceV3.1\AspxCommerce.CashOnDelivery\obj\Release\AspxCommerce.CashOnDelivery.csprojResolveAssemblyReference.cache

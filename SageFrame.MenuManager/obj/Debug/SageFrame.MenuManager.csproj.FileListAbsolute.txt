@@ -17,3 +17,4 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.MenuManager.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.MenuManager.pdb
 D:\AspxCommerceV3.1\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
 D:\AspxCommerceV3.1\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb
+D:\AspxCommerceV3.1\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
