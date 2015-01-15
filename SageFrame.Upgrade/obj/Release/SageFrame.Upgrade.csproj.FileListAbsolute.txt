@@ -100,6 +100,6 @@ D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Templating.pdb
 D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Scheduler.pdb
 D:\AspxCommerceV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Security.pdb
+D:\AspxCommerceV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.dll
 D:\AspxCommerceV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.pdb
-D:\AspxCommerceV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.csprojResolveAssemblyReference.cache

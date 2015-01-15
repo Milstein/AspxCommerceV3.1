@@ -22,6 +22,5 @@ D:\AspxCommerceV3.1\SageFrame.Templating\bin\Release\SageFrame.Templating.dll
 D:\AspxCommerceV3.1\SageFrame.Templating\bin\Release\SageFrame.Templating.pdb
 D:\AspxCommerceV3.1\SageFrame.Templating\bin\Release\SageFrame.Common.dll
 D:\AspxCommerceV3.1\SageFrame.Templating\bin\Release\SageFrame.Common.pdb
-D:\AspxCommerceV3.1\SageFrame.Templating\obj\Release\SageFrame.Templating.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame.Templating\obj\Release\SageFrame.Templating.dll
 D:\AspxCommerceV3.1\SageFrame.Templating\obj\Release\SageFrame.Templating.pdb

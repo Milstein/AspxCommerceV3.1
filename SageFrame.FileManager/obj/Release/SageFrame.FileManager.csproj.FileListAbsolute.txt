@@ -91,4 +91,3 @@ D:\AspxCommerceV3.1\SageFrame.FileManager\bin\Release\SageFrame.Scheduler.pdb
 D:\AspxCommerceV3.1\SageFrame.FileManager\bin\Release\SageFrame.Security.pdb
 D:\AspxCommerceV3.1\SageFrame.FileManager\obj\Release\SageFrame.FileManager.dll
 D:\AspxCommerceV3.1\SageFrame.FileManager\obj\Release\SageFrame.FileManager.pdb
-D:\AspxCommerceV3.1\SageFrame.FileManager\obj\Release\SageFrame.FileManager.csprojResolveAssemblyReference.cache

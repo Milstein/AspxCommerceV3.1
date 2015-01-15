@@ -14,9 +14,9 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.GoogleC
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\obj\Debug\AspxCommerce.GoogleCheckOut.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\obj\Debug\AspxCommerce.GoogleCheckOut.dll
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\obj\Debug\AspxCommerce.GoogleCheckOut.pdb
+D:\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\obj\Debug\AspxCommerce.GoogleCheckOut.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.GoogleCheckOut.dll.config
 D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.GoogleCheckOut.dll
 D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.GoogleCheckOut.pdb
-D:\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\obj\Debug\AspxCommerce.GoogleCheckOut.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\obj\Debug\AspxCommerce.GoogleCheckOut.dll
 D:\AspxCommerceV3.1\AspxCommerce.GoogleCheckOut\obj\Debug\AspxCommerce.GoogleCheckOut.pdb

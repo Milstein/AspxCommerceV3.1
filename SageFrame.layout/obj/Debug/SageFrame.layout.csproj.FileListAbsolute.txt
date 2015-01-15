@@ -59,6 +59,6 @@ D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFra
 D:\!@My Jobs So far\!@latest\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.layout.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.layout.pdb
+D:\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.dll
 D:\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.pdb
-D:\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.csprojResolveAssemblyReference.cache
