@@ -24,3 +24,9 @@ D:\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.dll
 D:\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.dll
 D:\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.SEOExtension.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.SEOExtension.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.pdb

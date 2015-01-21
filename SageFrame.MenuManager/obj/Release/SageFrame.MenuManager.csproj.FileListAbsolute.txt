@@ -32,3 +32,11 @@ D:\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Pages.pdb
 D:\AspxCommerceV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.dll
 D:\AspxCommerceV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.MenuManager.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.MenuManager.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Pages.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Pages.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.pdb

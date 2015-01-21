@@ -16,3 +16,7 @@ D:\AspxCommerceV3.1\SageFrame\bin\SFE.GoogleAdUnit.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SFE.GoogleAdUnit.pdb
 D:\AspxCommerceV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
 D:\AspxCommerceV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SFE.GoogleAdUnit.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SFE.GoogleAdUnit.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb

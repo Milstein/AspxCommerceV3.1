@@ -15,3 +15,8 @@ D:\AspxCommerceV3.1\CurrencyConvertor\bin\Release\CurrencyConverter.dll
 D:\AspxCommerceV3.1\CurrencyConvertor\bin\Release\CurrencyConverter.pdb
 D:\AspxCommerceV3.1\CurrencyConvertor\obj\Release\CurrencyConverter.dll
 D:\AspxCommerceV3.1\CurrencyConvertor\obj\Release\CurrencyConverter.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\CurrencyConvertor\bin\Release\CurrencyConverter.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\CurrencyConvertor\bin\Release\CurrencyConverter.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\CurrencyConvertor\obj\Release\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\CurrencyConvertor\obj\Release\CurrencyConverter.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\CurrencyConvertor\obj\Release\CurrencyConverter.pdb

@@ -62,3 +62,7 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.layout.pdb
 D:\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.dll
 D:\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.layout.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.layout.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.pdb

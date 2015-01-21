@@ -20,3 +20,9 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AIM.pdb
 D:\AspxCommerceV3.1\AspxCommerce.AIM\obj\Debug\AspxCommerce.AIM.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.AIM\obj\Debug\AspxCommerce.AIM.dll
 D:\AspxCommerceV3.1\AspxCommerce.AIM\obj\Debug\AspxCommerce.AIM.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AIM.dll.config
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AIM.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AIM.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.AIM\obj\Debug\AspxCommerce.AIM.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.AIM\obj\Debug\AspxCommerce.AIM.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.AIM\obj\Debug\AspxCommerce.AIM.pdb

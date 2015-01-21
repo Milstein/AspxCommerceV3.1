@@ -18,3 +18,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\ServiceInvoker.pdb
 D:\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.dll
 D:\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\ServiceInvoker.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\ServiceInvoker.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\ServiceInvoker\obj\Debug\ServiceInvoker.pdb

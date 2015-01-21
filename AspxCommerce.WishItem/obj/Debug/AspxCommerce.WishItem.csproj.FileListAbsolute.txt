@@ -18,3 +18,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.WishItem.pdb
 D:\AspxCommerceV3.1\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.dll
 D:\AspxCommerceV3.1\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.pdb
 D:\AspxCommerceV3.1\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.WishItem.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.WishItem.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.pdb

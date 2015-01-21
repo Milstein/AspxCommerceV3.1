@@ -18,3 +18,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.BrandView.pdb
 D:\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.dll
 D:\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.BrandView.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.BrandView.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.pdb

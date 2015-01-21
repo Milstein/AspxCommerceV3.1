@@ -28,3 +28,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\GCheckout.pdb
 D:\AspxCommerceV3.1\SageFrame\bin\GCheckout.xml
 D:\AspxCommerceV3.1\GoogleCheckout.Source\lib\obj\Debug\GCheckout.dll
 D:\AspxCommerceV3.1\GoogleCheckout.Source\lib\obj\Debug\GCheckout.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\GCheckout.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\GCheckout.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\GCheckout.xml
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\GoogleCheckout.Source\lib\obj\Debug\GCheckout.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\GoogleCheckout.Source\lib\obj\Debug\GCheckout.pdb

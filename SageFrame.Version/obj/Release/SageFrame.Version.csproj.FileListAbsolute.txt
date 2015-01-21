@@ -22,3 +22,7 @@ D:\AspxCommerceV3.1\SageFrame.Version\bin\Release\SageFrame.Version.dll
 D:\AspxCommerceV3.1\SageFrame.Version\bin\Release\SageFrame.Version.pdb
 D:\AspxCommerceV3.1\SageFrame.Version\obj\Release\SageFrame.Version.dll
 D:\AspxCommerceV3.1\SageFrame.Version\obj\Release\SageFrame.Version.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Version\bin\Release\SageFrame.Version.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Version\bin\Release\SageFrame.Version.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Version\obj\Release\SageFrame.Version.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Version\obj\Release\SageFrame.Version.pdb

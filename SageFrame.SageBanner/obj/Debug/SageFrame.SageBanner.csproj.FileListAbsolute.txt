@@ -18,3 +18,7 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.SageBanner.pdb
 D:\AspxCommerceV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
 D:\AspxCommerceV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb
 D:\AspxCommerceV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.SageBanner.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.SageBanner.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb

@@ -24,3 +24,7 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.Security.pdb
 D:\AspxCommerceV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.dll
 D:\AspxCommerceV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.Security.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.Security.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.pdb

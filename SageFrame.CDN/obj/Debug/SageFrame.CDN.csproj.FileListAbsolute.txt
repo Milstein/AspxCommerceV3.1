@@ -22,3 +22,7 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.CDN.pdb
 D:\AspxCommerceV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
 D:\AspxCommerceV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.CDN.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.CDN.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb

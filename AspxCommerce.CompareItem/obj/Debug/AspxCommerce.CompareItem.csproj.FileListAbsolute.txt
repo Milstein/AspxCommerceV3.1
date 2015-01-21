@@ -18,3 +18,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.CompareItem.pdb
 D:\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.dll
 D:\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.pdb
 D:\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.CompareItem.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.CompareItem.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.pdb

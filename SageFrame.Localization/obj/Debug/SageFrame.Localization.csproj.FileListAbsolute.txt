@@ -18,3 +18,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.Localization.pdb
 D:\AspxCommerceV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.dll
 D:\AspxCommerceV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.Localization.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.Localization.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.pdb

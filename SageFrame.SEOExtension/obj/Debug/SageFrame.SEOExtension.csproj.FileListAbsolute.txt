@@ -18,3 +18,7 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.SEOExtension.pdb
 D:\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.dll
 D:\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.pdb
 D:\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.SEOExtension.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.SEOExtension.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.pdb

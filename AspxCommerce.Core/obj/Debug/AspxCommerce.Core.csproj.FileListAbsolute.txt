@@ -18,3 +18,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Core.pdb
 D:\AspxCommerceV3.1\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
 D:\AspxCommerceV3.1\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Core.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Core.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb

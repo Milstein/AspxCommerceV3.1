@@ -16,3 +16,7 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.Common.dll
 D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.Common\obj\Debug\SageFrame.Common.dll
 D:\AspxCommerceV3.1\SageFrame.Common\obj\Debug\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Common\obj\Debug\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Common\obj\Debug\SageFrame.Common.pdb

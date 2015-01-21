@@ -59,3 +59,11 @@ D:\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
 D:\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
 D:\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.layout.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.layout.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb

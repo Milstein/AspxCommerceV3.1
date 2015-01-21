@@ -18,3 +18,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.SpecialItems.pdb
 D:\AspxCommerceV3.1\AspxCommerce.SpecialItems\obj\Debug\AspxCommerce.SpecialItems.dll
 D:\AspxCommerceV3.1\AspxCommerce.SpecialItems\obj\Debug\AspxCommerce.SpecialItems.pdb
 D:\AspxCommerceV3.1\AspxCommerce.SpecialItems\obj\Debug\AspxCommerce.SpecialItems.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.SpecialItems.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.SpecialItems.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.SpecialItems\obj\Debug\AspxCommerce.SpecialItems.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.SpecialItems\obj\Debug\AspxCommerce.SpecialItems.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.SpecialItems\obj\Debug\AspxCommerce.SpecialItems.pdb

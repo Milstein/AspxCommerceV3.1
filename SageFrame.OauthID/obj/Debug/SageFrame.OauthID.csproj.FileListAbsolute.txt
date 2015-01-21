@@ -22,3 +22,7 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.OauthID.pdb
 D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.dll
 D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.pdb
 D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.OauthID.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.OauthID.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.pdb

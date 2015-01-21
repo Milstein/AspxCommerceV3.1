@@ -26,3 +26,10 @@ D:\AspxCommerceV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.dll
 D:\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Dashboard.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Dashboard.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.pdb

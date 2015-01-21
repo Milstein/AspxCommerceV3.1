@@ -20,3 +20,9 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Paypal.pdb
 D:\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.Paypal.dll
 D:\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.Paypal.pdb
 D:\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.PayPal.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Paypal.dll.config
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Paypal.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Paypal.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.PayPal.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.Paypal.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.Paypal\obj\Debug\AspxCommerce.Paypal.pdb

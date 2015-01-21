@@ -18,3 +18,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.USPS.pdb
 D:\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.dll
 D:\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.pdb
 D:\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.USPS.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.USPS.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.pdb

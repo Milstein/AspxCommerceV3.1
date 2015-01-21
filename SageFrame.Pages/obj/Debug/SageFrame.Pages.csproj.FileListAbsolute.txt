@@ -18,3 +18,7 @@ D:\AspxCommerceV3.1\SageFrame\bin\SageFrame.Pages.pdb
 D:\AspxCommerceV3.1\SageFrame.Pages\obj\Debug\SageFrame.Pages.dll
 D:\AspxCommerceV3.1\SageFrame.Pages\obj\Debug\SageFrame.Pages.pdb
 D:\AspxCommerceV3.1\SageFrame.Pages\obj\Debug\SageFrame.Pages.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.Pages.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\SageFrame.Pages.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Pages\obj\Debug\SageFrame.Pages.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.Pages\obj\Debug\SageFrame.Pages.pdb

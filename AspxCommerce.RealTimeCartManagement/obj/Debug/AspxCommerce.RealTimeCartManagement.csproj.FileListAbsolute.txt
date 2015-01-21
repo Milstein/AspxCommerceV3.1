@@ -21,3 +21,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.RearTimeCartMgnt.pdb
 D:\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.dll
 D:\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.RearTimeCartMgnt.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.RearTimeCartMgnt.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.RealTimeCartManagement\obj\Debug\AspxCommerce.RearTimeCartMgnt.pdb

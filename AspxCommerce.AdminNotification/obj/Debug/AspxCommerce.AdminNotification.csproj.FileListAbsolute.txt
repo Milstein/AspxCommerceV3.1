@@ -18,3 +18,8 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AdminNotification.pdb
 D:\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.dll
 D:\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AdminNotification.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.AdminNotification.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.AdminNotification\obj\Debug\AspxCommerce.AdminNotification.pdb

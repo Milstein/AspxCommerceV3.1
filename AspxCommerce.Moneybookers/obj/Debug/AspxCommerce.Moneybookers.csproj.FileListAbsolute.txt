@@ -20,3 +20,9 @@ D:\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Moneybookers.pdb
 D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debug\AspxCommerce.Moneybookers.csprojResolveAssemblyReference.cache
 D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debug\AspxCommerce.Moneybookers.dll
 D:\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debug\AspxCommerce.Moneybookers.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Moneybookers.dll.config
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Moneybookers.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame\bin\AspxCommerce.Moneybookers.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debug\AspxCommerce.Moneybookers.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debug\AspxCommerce.Moneybookers.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\AspxCommerce.Moneybookers\obj\Debug\AspxCommerce.Moneybookers.pdb

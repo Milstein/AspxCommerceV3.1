@@ -24,3 +24,9 @@ D:\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.dll
 D:\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.pdb
 D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.dll
 D:\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.OauthID.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.OauthID.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\AspxCommerceV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.pdb
